@@ -22,7 +22,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/apple/swift-nio",
-            exact: "2.51.0"
+            exact: "2.62.0"
         ),
     ],
     targets: [
